@@ -5,8 +5,8 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
-	"github.com/snail007/goproxy/services"
-	"github.com/snail007/goproxy/utils"
+	"github.com/schmittpaul/goproxy/services"
+	"github.com/schmittpaul/goproxy/utils"
 
 	kingpin "gopkg.in/alecthomas/kingpin.v2"
 )
