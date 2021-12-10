@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/snail007/goproxy/services"
+	"github.com/schmittpaul/goproxy/services"
 	"log"
 	"os"
 	"os/signal"
